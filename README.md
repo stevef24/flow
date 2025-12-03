@@ -4,8 +4,13 @@ Structured AI-assisted development. Research → Plan → Implement.
 
 ## Install
 
-```
+**Step 1:** Add the marketplace
+```bash
 /plugin marketplace add stevef24/flow
+```
+
+**Step 2:** Install the plugin
+```bash
 /plugin install flow@stevef24/flow
 ```
 
