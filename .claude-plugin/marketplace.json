@@ -1,0 +1,10 @@
+{
+  "name": "stevef24/flow",
+  "description": "Flow plugin marketplace",
+  "plugins": [
+    {
+      "name": "flow",
+      "path": "."
+    }
+  ]
+}

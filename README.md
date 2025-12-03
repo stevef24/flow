@@ -5,7 +5,8 @@ Structured AI-assisted development. Research → Plan → Implement.
 ## Install
 
 ```
-claude plugin add stevef24/flow
+/plugin marketplace add stevef24/flow
+/plugin install flow@stevef24/flow
 ```
 
 ## Commands
