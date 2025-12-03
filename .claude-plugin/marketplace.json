@@ -1,10 +1,16 @@
 {
-  "name": "stevef24/flow",
+  "name": "flow-marketplace",
   "description": "Flow plugin marketplace",
+  "owner": {
+    "name": "stevef24",
+    "email": "stevefernandes24@hotmail.co.uk"
+  },
   "plugins": [
     {
       "name": "flow",
-      "path": "."
+      "source": ".",
+      "description": "Structured AI-assisted development. Research → Plan → Implement.",
+      "version": "1.0.0"
     }
   ]
 }
