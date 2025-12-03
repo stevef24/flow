@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "flow",
-      "source": ".",
+      "source": "./",
       "description": "Structured AI-assisted development. Research → Plan → Implement.",
       "version": "1.0.0"
     }
