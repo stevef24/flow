@@ -11,7 +11,7 @@ Structured AI-assisted development. Research → Plan → Implement.
 
 **Step 2:** Install the plugin
 ```bash
-/plugin install flow@stevef24/flow
+/plugin install flow@flow-marketplace
 ```
 
 ## Commands
